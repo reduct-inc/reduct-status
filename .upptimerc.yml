@@ -5,15 +5,15 @@ repo: reduct-status # The name of this repository
 sites:
   - name: Reduct Video
     url: https://app.reduct.video
-  - name: Core Application Servers
+  - name: Main Servers
     url: https://app.reduct.video/x/status
-  - name: Transcript Service
+  - name: Transcripts
     url: https://app.reduct.video/x/tsss/status
-  - name: Render Service
+  - name: Rendering
     url: https://app.reduct.video/x/render/status
-  - name: Live Transcript Service
+  - name: Live Transcripts
     url: https://app.reduct.video/x/live-transcription/status
-  - name: Async Transcript Service
+  - name: Transcript Processing
     url: https://app.reduct.video/x/whisper/status
 
 status-website:
