@@ -5,6 +5,16 @@ repo: reduct-status # The name of this repository
 sites:
   - name: Reduct Video
     url: https://app.reduct.video
+  - name: Core Application Servers
+    url: https://app.reduct.video/x/status
+  - name: Transcript Service
+    url: https://app.reduct.video/x/tsss/status
+  - name: Render Service
+    url: https://app.reduct.video/x/render/status
+  - name: Live Transcript Service
+    url: https://app.reduct.video/x/live-transcription/status
+  - name: Async Transcript Service
+    url: https://app.reduct.video/x/whisper/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
