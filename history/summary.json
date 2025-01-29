@@ -4,28 +4,30 @@
     "url": "https://app.reduct.video",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "reduct-video",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 336,
     "timeDay": 229,
     "timeWeek": 359,
     "timeMonth": 354,
     "timeYear": 336,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 2
+    }
   },
   {
     "name": "Main Servers",
     "url": "https://app.reduct.video/x/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "main-servers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
@@ -33,17 +35,19 @@
     "timeWeek": 46,
     "timeMonth": 47,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 2
+    }
   },
   {
     "name": "Transcripts",
     "url": "https://app.reduct.video/x/tsss/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "transcripts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
@@ -51,17 +55,19 @@
     "timeWeek": 51,
     "timeMonth": 41,
     "timeYear": 40,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "Rendering",
     "url": "https://app.reduct.video/x/render/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "rendering",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
@@ -69,16 +75,18 @@
     "timeWeek": 46,
     "timeMonth": 43,
     "timeYear": 43,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 1
+    }
   },
   {
     "name": "Live Transcripts",
     "url": "https://app.reduct.video/x/live-transcription/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "live-transcripts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +95,9 @@
     "timeWeek": 61,
     "timeMonth": 58,
     "timeYear": 70,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Transcript Processing",
