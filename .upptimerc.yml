@@ -21,15 +21,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.reduct.video
   # baseUrl: /reduct-status
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/reduct-inc/reduct-status/99cbfe02db5eaeb683a7939e135dcd48025e0912/assets/reduct-logo-spacing.svg
+  faviconSvg: https://raw.githubusercontent.com/reduct-inc/reduct-status/99cbfe02db5eaeb683a7939e135dcd48025e0912/assets/reduct-logo.svg
   name: Reduct Video Status Page
   introTitle: "Real-time status data for **Reduct Video:**"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  # navbar:
-  #   - title: Status
-  #     href: /
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
+  navbar:
+    - title: Status
+      href: /
+    - title: Updates
+      href: https://github.com/$OWNER/$REPO/issues
+  css: ".logo div { display: none } .submit-button { background: #949AB7; border-color: #3C45AB; } a.error-button { border-color: #3C45AB; background: #949AB7; } article.down-active { border-color: #EA4E3C; } article.down { border-left-color: #EA4E3C !important; } [aria-current] { border-bottom-color: #5B90F6; } nav { border-bottom-color: #BBBBBB; } section article.up:hover { filter: hue-rotate(65deg) drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.07)); } section article.down:hover { filter: hue-rotate(65deg) drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.07)); } section article.degraded:hover { filter: hue-rotate(65deg) drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.07)); } canvas { filter: hue-rotate(65deg); } article.up { filter: hue-rotate(65deg); background-color: white; border-left-color: #58B99D !important; } article.down { filter: hue-rotate(65deg); background-color: white; border-left-color: #EA3CE7 !important; } article.degraded { filter: hue-rotate(65deg); background-color: white; border-left-color: #E8316E !important; } img.icon { display: none; } body { background-color: #F7F3EF; color: #3D3D3D; } article { background: #FFFFFF;} nav ul li:hover { text-decoration-line: underline; text-decoration-thickness: 3px; text-decoration-color: #323B90; color: #323B90;}"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
