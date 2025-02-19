@@ -22,7 +22,7 @@ status-website:
   cname: status.reduct.video
   # baseUrl: /reduct-status
   logoUrl: https://raw.githubusercontent.com/reduct-inc/reduct-status/99cbfe02db5eaeb683a7939e135dcd48025e0912/assets/reduct-logo-spacing.svg
-  faviconSvg: https://raw.githubusercontent.com/reduct-inc/reduct-status/99cbfe02db5eaeb683a7939e135dcd48025e0912/assets/reduct-logo.svg
+  faviconSvg: https://raw.githubusercontent.com/reduct-inc/reduct-status/1beb95b0ebbe8c09f3ddb9005409e07f54c6f3d2/assets/reduct-logo-dynamic.svg
   name: Reduct Video Status Page
   introTitle: "Real-time status data for **Reduct Video:**"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
