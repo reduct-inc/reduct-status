@@ -11,9 +11,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 823,
-    "timeWeek": 735,
-    "timeMonth": 499,
+    "timeDay": 336,
+    "timeWeek": 736,
+    "timeMonth": 502,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2025-01-29": 8
@@ -31,8 +31,8 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.93%",
     "time": 82,
-    "timeDay": 42,
-    "timeWeek": 36,
+    "timeDay": 41,
+    "timeWeek": 37,
     "timeMonth": 124,
     "timeYear": 82,
     "dailyMinutesDown": {
@@ -51,8 +51,8 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 41,
-    "timeDay": 44,
-    "timeWeek": 38,
+    "timeDay": 47,
+    "timeWeek": 39,
     "timeMonth": 43,
     "timeYear": 41,
     "dailyMinutesDown": {
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 43,
-    "timeDay": 48,
-    "timeWeek": 42,
-    "timeMonth": 44,
+    "timeDay": 53,
+    "timeWeek": 44,
+    "timeMonth": 45,
     "timeYear": 43,
     "dailyMinutesDown": {
       "2025-01-29": 7
@@ -85,15 +85,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "live-transcripts",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 70,
-    "timeDay": 67,
-    "timeWeek": 61,
-    "timeMonth": 69,
+    "timeDay": 58,
+    "timeWeek": 64,
+    "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {
       "2025-01-29": 6
@@ -111,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 56,
-    "timeWeek": 54,
-    "timeMonth": 55,
+    "timeDay": 54,
+    "timeWeek": 57,
+    "timeMonth": 56,
     "timeYear": 55,
     "dailyMinutesDown": {}
   }
