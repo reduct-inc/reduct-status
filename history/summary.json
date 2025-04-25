@@ -22,7 +22,7 @@
     "url": "https://app.reduct.video/x/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "main-servers-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 176,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2025-04-25": 0,
       "2025-04-15": 6
     }
   },
