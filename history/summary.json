@@ -4,9 +4,9 @@
     "url": "https://app.reduct.video",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "reduct-video-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 278,
     "timeMonth": 264,
     "timeYear": 347,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   },
   {
     "name": "Main Servers Status",
     "url": "https://app.reduct.video/x/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "main-servers-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -34,6 +36,7 @@
     "timeMonth": 129,
     "timeYear": 125,
     "dailyMinutesDown": {
+      "2025-05-05": 0,
       "2025-04-25": 11,
       "2025-04-15": 6
     }
@@ -43,9 +46,9 @@
     "url": "https://app.reduct.video/x/tsss/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "transcripts-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,16 +57,18 @@
     "timeWeek": 41,
     "timeMonth": 40,
     "timeYear": 41,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   },
   {
     "name": "Rendering Status",
     "url": "https://app.reduct.video/x/render/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "rendering-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,16 +77,18 @@
     "timeWeek": 51,
     "timeMonth": 47,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   },
   {
     "name": "Live Transcripts Status",
     "url": "https://app.reduct.video/x/live-transcription/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "live-transcripts-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,16 +97,18 @@
     "timeWeek": 65,
     "timeMonth": 61,
     "timeYear": 61,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   },
   {
     "name": "Transcript Processing Status",
     "url": "https://app.reduct.video/x/whisper/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "transcript-processing-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -108,6 +117,8 @@
     "timeWeek": 60,
     "timeMonth": 58,
     "timeYear": 56,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-05": 0
+    }
   }
 ]
