@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 345,
-    "timeDay": 203,
-    "timeWeek": 334,
-    "timeMonth": 296,
-    "timeYear": 345,
+    "time": 343,
+    "timeDay": 229,
+    "timeWeek": 242,
+    "timeMonth": 292,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2025-05-05": 21
     }
@@ -26,15 +26,15 @@
     "slug": "main-servers-status",
     "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "91.31%",
+    "uptimeDay": "97.72%",
     "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.61%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.83%",
-    "time": 451,
-    "timeDay": 3218,
-    "timeWeek": 1960,
-    "timeMonth": 783,
-    "timeYear": 451,
+    "time": 446,
+    "timeDay": 4127,
+    "timeWeek": 1946,
+    "timeMonth": 754,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-05-15": 33,
       "2025-05-14": 92,
@@ -57,8 +57,8 @@
     "uptimeYear": "99.98%",
     "time": 41,
     "timeDay": 48,
-    "timeWeek": 37,
-    "timeMonth": 39,
+    "timeWeek": 40,
+    "timeMonth": 40,
     "timeYear": 41,
     "dailyMinutesDown": {
       "2025-05-05": 21
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 180,
-    "timeDay": 62,
-    "timeWeek": 45,
-    "timeMonth": 45,
-    "timeYear": 180,
+    "time": 178,
+    "timeDay": 54,
+    "timeWeek": 47,
+    "timeMonth": 46,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2025-05-05": 21
     }
@@ -96,8 +96,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 61,
-    "timeDay": 49,
-    "timeWeek": 69,
+    "timeDay": 58,
+    "timeWeek": 67,
     "timeMonth": 63,
     "timeYear": 61,
     "dailyMinutesDown": {
@@ -116,9 +116,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 56,
-    "timeDay": 42,
-    "timeWeek": 64,
-    "timeMonth": 60,
+    "timeDay": 51,
+    "timeWeek": 60,
+    "timeMonth": 59,
     "timeYear": 56,
     "dailyMinutesDown": {
       "2025-05-05": 21
