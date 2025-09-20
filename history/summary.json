@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 386,
-    "timeDay": 716,
-    "timeWeek": 330,
-    "timeMonth": 342,
+    "timeDay": 284,
+    "timeWeek": 329,
+    "timeMonth": 334,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-05-05": 21
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.91%",
-    "time": 387,
-    "timeDay": 52,
-    "timeWeek": 37,
-    "timeMonth": 1067,
-    "timeYear": 387,
+    "time": 386,
+    "timeDay": 147,
+    "timeWeek": 54,
+    "timeMonth": 1069,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2025-08-25": 78,
       "2025-05-15": 33,
@@ -57,8 +57,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 58,
-    "timeDay": 46,
-    "timeWeek": 43,
+    "timeDay": 35,
+    "timeWeek": 42,
     "timeMonth": 141,
     "timeYear": 58,
     "dailyMinutesDown": {
@@ -76,11 +76,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 101,
-    "timeDay": 59,
-    "timeWeek": 46,
-    "timeMonth": 47,
-    "timeYear": 101,
+    "time": 121,
+    "timeDay": 4034,
+    "timeWeek": 616,
+    "timeMonth": 176,
+    "timeYear": 121,
     "dailyMinutesDown": {
       "2025-05-05": 21
     }
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 63,
-    "timeDay": 50,
-    "timeWeek": 66,
-    "timeMonth": 68,
-    "timeYear": 63,
+    "time": 62,
+    "timeDay": 32,
+    "timeWeek": 59,
+    "timeMonth": 66,
+    "timeYear": 62,
     "dailyMinutesDown": {
       "2025-05-05": 21
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 57,
-    "timeDay": 43,
-    "timeWeek": 59,
-    "timeMonth": 60,
-    "timeYear": 57,
+    "time": 56,
+    "timeDay": 27,
+    "timeWeek": 52,
+    "timeMonth": 59,
+    "timeYear": 56,
     "dailyMinutesDown": {
       "2025-05-21": 42,
       "2025-05-05": 21
