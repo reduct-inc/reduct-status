@@ -1,7 +1,7 @@
 url: https://app.reduct.video/x/status
-status: down
-code: 502
-responseTime: 40
-lastUpdated: 2025-10-22T19:35:28.810Z
+status: up
+code: 200
+responseTime: 8006
+lastUpdated: 2025-10-22T19:43:26.447Z
 startTime: 2025-03-05T00:11:57.914Z
 generator: Upptime <https://github.com/upptime/upptime>
