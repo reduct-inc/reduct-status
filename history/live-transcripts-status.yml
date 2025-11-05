@@ -1,7 +1,7 @@
 url: https://app.reduct.video/x/live-transcription/status
-status: down
-code: 502
-responseTime: 27
-lastUpdated: 2025-11-05T04:38:47.313Z
+status: up
+code: 200
+responseTime: 90
+lastUpdated: 2025-11-05T05:07:25.443Z
 startTime: 2025-03-05T00:11:58.960Z
 generator: Upptime <https://github.com/upptime/upptime>
