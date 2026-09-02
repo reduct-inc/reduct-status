@@ -1,7 +1,7 @@
 url: https://app.reduct.video/x/tsss/status
-status: up
-code: 200
-responseTime: 138
-lastUpdated: 2026-09-01T23:12:40.799Z
+status: down
+code: 403
+responseTime: 141
+lastUpdated: 2026-09-02T22:48:30.269Z
 startTime: 2025-03-05T00:11:58.245Z
 generator: Upptime <https://github.com/upptime/upptime>
