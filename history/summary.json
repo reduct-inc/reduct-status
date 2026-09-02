@@ -4,19 +4,19 @@
     "url": "https://app.reduct.video",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "reduct-video-status",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 465,
-    "timeDay": 262,
-    "timeWeek": 311,
-    "timeMonth": 437,
+    "timeDay": 287,
+    "timeWeek": 314,
+    "timeMonth": 434,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2026-09-02": 1
+      "2026-09-02": 7
     }
   },
   {
@@ -24,21 +24,21 @@
     "url": "https://app.reduct.video/x/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "main-servers-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 424,
-    "timeDay": 147,
-    "timeWeek": 186,
-    "timeMonth": 185,
+    "timeDay": 131,
+    "timeWeek": 177,
+    "timeMonth": 182,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2025-10-22": 8,
       "2026-03-27": 19,
-      "2026-09-02": 1
+      "2026-09-02": 7
     }
   },
   {
@@ -46,20 +46,20 @@
     "url": "https://app.reduct.video/x/tsss/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "transcripts-status",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 140,
-    "timeWeek": 167,
-    "timeMonth": 153,
+    "timeDay": 241,
+    "timeWeek": 198,
+    "timeMonth": 162,
     "timeYear": 119,
     "dailyMinutesDown": {
       "2025-12-20": 11,
-      "2026-09-02": 1
+      "2026-09-02": 7
     }
   },
   {
@@ -67,20 +67,20 @@
     "url": "https://app.reduct.video/x/render/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "rendering-status",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 188,
-    "timeWeek": 161,
-    "timeMonth": 131,
+    "timeDay": 224,
+    "timeWeek": 176,
+    "timeMonth": 136,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2025-12-20": 10,
-      "2026-09-02": 1
+      "2026-09-02": 7
     }
   },
   {
@@ -88,20 +88,20 @@
     "url": "https://app.reduct.video/x/live-transcription/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "live-transcripts-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 89,
-    "timeDay": 212,
-    "timeWeek": 181,
-    "timeMonth": 190,
+    "timeDay": 189,
+    "timeWeek": 177,
+    "timeMonth": 189,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2025-11-05": 29,
-      "2026-09-02": 0
+      "2026-09-02": 7
     }
   },
   {
@@ -109,19 +109,19 @@
     "url": "https://app.reduct.video/x/whisper/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
     "slug": "transcript-processing-status",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 240,
-    "timeWeek": 162,
-    "timeMonth": 297,
+    "timeDay": 199,
+    "timeWeek": 157,
+    "timeMonth": 291,
     "timeYear": 95,
     "dailyMinutesDown": {
-      "2026-09-02": 0
+      "2026-09-02": 6
     }
   }
 ]
