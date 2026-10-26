@@ -41,28 +41,6 @@
     }
   },
   {
-    "name": "Transcripts Status",
-    "url": "https://app.reduct.video/x/tsss/status",
-    "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
-    "slug": "transcripts-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 138,
-    "timeWeek": 138,
-    "timeMonth": 173,
-    "timeYear": 136,
-    "dailyMinutesDown": {
-      "2025-12-20": 11,
-      "2026-09-02": 7,
-      "2026-10-26": 0
-    }
-  },
-  {
     "name": "Rendering Status",
     "url": "https://app.reduct.video/x/render/status",
     "icon": "https://icons.duckduckgo.com/ip3/app.reduct.video.ico",
