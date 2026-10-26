@@ -7,8 +7,6 @@ sites:
     url: https://app.reduct.video
   - name: Main Servers Status
     url: https://app.reduct.video/x/status
-  - name: Transcripts Status
-    url: https://app.reduct.video/x/tsss/status
   - name: Rendering Status
     url: https://app.reduct.video/x/render/status
   - name: Live Transcripts Status
